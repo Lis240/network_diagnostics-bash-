@@ -25,3 +25,11 @@ The script runs the following tests:
 ```bash
 git clone https://github.com/Lis240//network_diagnostics_bash.git
 cd network-diagnostics
+chmod +x network_diagnostics.sh
+Edit network_diagnostics.sh to configure the hosts, domains, IPs, and ports you want to monitor.
+For example:
+HOSTS=("8.8.8.8" "google.com")
+DOMAINS=("google.com" "github.com")
+IPS=("192.168.1.1" "8.8.8.8")
+PORTS=("22" "80" "443")
+./network_diagnostics.sh
