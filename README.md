@@ -23,5 +23,5 @@ The script runs the following tests:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Lis240//network_diagnostics-bash-.git
+git clone https://github.com/Lis240//network_diagnostics_bash.git
 cd network-diagnostics
