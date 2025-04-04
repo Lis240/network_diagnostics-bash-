@@ -23,7 +23,7 @@ The script runs the following tests:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Lis240//network_diagnostics_bash.git
+git clone https://github.com/Lis240/network_diagnostics-bash-.git
 cd network-diagnostics
 chmod +x network_diagnostics.sh
 Edit network_diagnostics.sh to configure the hosts, domains, IPs, and ports you want to monitor.
